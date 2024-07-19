@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/1vQtYFW/banner.png" alt="Marton Lederer" />
+  <img src="https://i.ibb.co/YyrxhXS/banner.png" alt="Marton Lederer" />
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=Mo2men7&style=for-the-badge&color=dc143c&label=PROFILE+VIEWS)
