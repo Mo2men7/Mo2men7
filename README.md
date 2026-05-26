@@ -1,55 +1,19 @@
-<h1 align="center">
-  <img src="https://i.ibb.co/YyrxhXS/banner.png" alt="Marton Lederer" />
-</h1>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=Mo2men7&style=for-the-badge&color=dc143c&label=PROFILE+VIEWS)
+# Hi, I'm Momen Helmy 👋
 
-##### Hi, I'm Momen:
- 
-- 🎓 I graduated from the Faculty of Science, Port Said University, Egypt, Department of Mathematics and Computer Science.
-- 👨‍💻 I am currently working as a Full-Stack developer using only Laravel.
-- 📚 I am currently developing my skills in web development technologies especially ReactJS.
-- ⚡ I love to play chess, swim, lift weights 🏋️‍♀️.
-- 📭 U can reach me using :
-  
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momen.helmy.m@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momenhelmyy)
+**Web Developer**
 
-<!-- ![Momen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo2men7&hide=stars,issues&show_icons=true&theme=radical&)-->
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40Mo2men7-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/Mo2men7) [![Website](https://www.shieldcn.dev/badge/Website-momenhelmy.netlify.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://momenhelmy.netlify.app) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40momenhelmyy-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/momenhelmyy)
 
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/Mo2men7.svg?variant=secondary&size=sm)](https://github.com/Mo2men7?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/Mo2men7.svg?variant=secondary&size=sm)](https://github.com/Mo2men7?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-32-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/Mo2men7?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Port_Said%2C_Egypt-6366f1.svg?logo=googlemaps&variant=ghost&size=sm)
 
-##### Languages I use
+</div>
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+## 🛠️ Skills & Technologies
 
-##### Some of the technologies I have worked with
+![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![PHP](https://www.shieldcn.dev/badge/-PHP-777BB4.svg?logo=php&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm) ![Supabase](https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&size=sm) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm)
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat&logo=laravel&logoColor=fe2d21)
-![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=de0032)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+---
 
-
-<!--
-**Mo2men7/Mo2men7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
